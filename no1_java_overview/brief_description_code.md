@@ -1,4 +1,4 @@
-##FactorialMain.java
+## FactorialMain.java
 
 >1부터 주어진 숫자까지의 factorial 계산 결과를 출력합니다.
 
